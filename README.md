@@ -4,4 +4,4 @@
 * Architecture Diagram: 
 <img src="https://raw.githubusercontent.com/kxnk/de-guided-proj/main/1.%20Spotify%20Pipeline/Architecture%20Diagram.jpg" alt="Architecture Diagram" width="500">
 
-
+[Medium article](https://medium.com/@03nishchayagarwal/spi-786182fe1d7c)
